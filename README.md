@@ -1,7 +1,7 @@
 ### Hi there 👋
-#### Welcome to my profile⭐
+#### ⭐Welcome to my Profile⭐
 
-
+[![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuel-yeebiyo&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
