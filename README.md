@@ -1,7 +1,7 @@
-### Hi there 👋
-#### ⭐Welcome to my Profile⭐
+### Hi there! 👋
 
-[![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuel-yeebiyo&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<a href=https://github.com/samuel-yeebiyo/samuel-yeebiyo><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-yeebiyo&show_icons=true&theme=tokyonight&hide_border=true&custom_title=Languages:&langs_count=10&layout=compact"></a>
+<a href=https://github.com/samuel-yeebiyo/samuel-yeebiyo><img src="https://github-readme-stats.vercel.app/api?username=samuel-yeebiyo&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&custom_title=Stats:"></a>
 
 
 <!--
