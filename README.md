@@ -1,7 +1,7 @@
 ### Hi there! 👋
 
-<a href=https://github.com/samuel-yeebiyo/samuel-yeebiyo><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-yeebiyo&show_icons=true&theme=tokyonight&hide_border=true&custom_title=Languages:&langs_count=10&layout=compact"></a>
-<a href=https://github.com/samuel-yeebiyo/samuel-yeebiyo><img src="https://github-readme-stats.vercel.app/api?username=samuel-yeebiyo&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&custom_title=Stats:"></a>
+<a href=https://github.com/samuel-yeebiyo/samuel-yeebiyo><img src="https://my-private-readme-stats.vercel.app/api/top-langs/?username=samuel-yeebiyo&show_icons=true&theme=tokyonight&hide_border=true&custom_title=Languages:&langs_count=10&layout=compact"></a>
+<a href=https://github.com/samuel-yeebiyo/samuel-yeebiyo><img src="https://my-private-readme-stats.vercel.app/api?username=samuel-yeebiyo&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&custom_title=Stats:"></a>
 
 
 <!--
