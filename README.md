@@ -4,9 +4,6 @@
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-yeebiyo/)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuel.yeebiyo@gmail.com)
 
-<a href=https://github.com/samuel-yeebiyo/samuel-yeebiyo><img src="https://my-private-readme-stats.vercel.app/api/top-langs/?username=samuel-yeebiyo&show_icons=true&theme=tokyonight&hide_border=true&custom_title=Languages:&langs_count=10&layout=compact"></a>
-<a href=https://github.com/samuel-yeebiyo/samuel-yeebiyo><img src="https://my-private-readme-stats.vercel.app/api?username=samuel-yeebiyo&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&custom_title=Stats:"></a>
-
 <p><strong>Things I Enjoy Working With ⭐</strong></p>
 
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
